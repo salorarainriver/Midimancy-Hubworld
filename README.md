@@ -22,3 +22,4 @@ This repository is a work in progress, but there IS an attempt to sort it. The f
 
 There is a naming standard for the midi file names, as well, and it goes like this: 
 **Artist - Song (number of tracks, or "/X/-mix")**
+'Artist' name will often be abbreviated, just to make it easier to read the file name in a pinch. There will be a list of my abbreviations soon.
