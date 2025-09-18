@@ -1,4 +1,4 @@
-HI! not every file in this folder has their track number listed in parentheses. 
+Not every file in this folder has their track number listed in parentheses. 
 
 This is happening because I, Salora Rainriver, was a bit lazy.
 If you wanna check out these files and rename them to include the track number, go ahead and be my guest. 
