@@ -1,0 +1,61 @@
+How To Midimancy
+
+#Basics: what are tracks, channels, and soundfonts
+
+## What is a Track/Channel? 
+
+[someone better with words than me please explain them]
+The overall song is split into tracks, each track picks a channel to be played through. 
+Every MIDI file supports up to 15-16 channels (I forget which). the 10th channel is for rhythm tracks.
+
+
+## So How Do I Use This Information?
+
+click here [screencap of the ss14 midi player] and you'll be able to turn certain channels on or off! this will allow you to only play certain portions of a song, meaning that multiple instruments playing together can pick which part of the song they want to play, making for a more immersive experience!
+
+
+## Track Names???
+
+click this button (screencap) to view the track names! when you don't click it, what shows is instead the 'instrument' that the track was set to in the midi file!
+
+
+## Wait, tracks have set instruments?!
+
+YES! Each 'instrument' in a MIDI file is a different soundfont, and the format supports a lot of different soundfonts. 
+You'd think this would make the task of hand-naming tracks kinda pointless, but trust me, when a song has like 4 different tracks set to 'piano', you're gonna want to know which of those tracks carries the main melody, and which track has like 5 notes played in the second chorus.
+
+Also some midis don't bother setting instruments and will have every track just as 'piano'. 
+
+## How the DAW Item works
+
+This instrument is unique, in that it plays every channel using the soundfont of the original midi, instead of every other instrument, which uses their own soundfont regardless of what the track is set as in the file. 
+
+This means DAWs will automatically sound really cool with no effort on your part, but you can't really do midimancy with them.
+
+## So.. is Midimancy just selectively playing certain channels? 
+Yeah basically. It's also the use of multiple instruments, each of them set to different channels, to turn the simple playing of a file into a truly unique performance!
+Or you know, something like that. 
+
+
+# Midimancy, an Art That I Made Up
+So I use certain 'lingo' that I made up in order to describe midimancy techniques that I also made up. also there's other stuff here, musings and such, that I want to discuss here and share with other potential midimancers.
+
+
+## 'Channel Splitting' 
+you have two instruments. you play a song on one instrument, you set the other instrument to join the first one's 'band. 
+You go into the channels for both instruments, and one instrument is playing some of the channels, and the other instrument is playing the other channels. 
+
+That's what I'm calling **"channel splitting"**, 
+
+because it's splitting the channels between different instruments. 
+
+It's probably self-explanatory but i wanted to define it here just in case anyone got confused.
+
+## A note on Immersion, and 'impossible tracks':
+A number of instruments are fairly limited in how many notes they can play at once. For instance, a piano, played by a single human, can only play up to 10 notes at once, barring some truly creative fuckery. On the far more restrictive end, the human voice can only play a single note at a time, and if you want to do any sort of vocal harmony, you plain and simple just need more people. (don't ask me how many notes any other instrument can play at once cause I don't fucking know. how do guitars work???)
+
+Furthermore, if the musician is not human, certain limitations might be different. For instance, maybe a kodepiia's vocal chords *can* harmonize, or a Diona can have as many 'fingers' as they please. Maybe some species have less fingers than a human, so they're even more limited in how many notes they can play at once. 
+
+This is all some serious nerd shit and you can feel free to ignore it, because SS14's musical system sure as hell does! It'll let you play as many simultaneous notes as you goddamn want, without regard for how easy or even possible it is to pull that off in real life.
+
+But, you know, if you want to feel more immersed in your world by giving a shit about something nerdy like this... these sorts of considerations are why I'm even making stuff like 'vocal edits' in the first place!
