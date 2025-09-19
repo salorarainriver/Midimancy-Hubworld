@@ -1,8 +1,16 @@
 Not every file in this folder has their track number listed in parentheses. 
 
 This is happening because I, Salora Rainriver, was a bit lazy.
-If you wanna check out these files and rename them to include the track number, go ahead and be my guest. 
+I'm getting onto it.
 
-I don't know if multiple tracks can be fed into the same MIDI channel (or if that only exists for channel 10), but if you encounter such a situation, please count all those tracks as the same track for the purposes of counting, 
+   ==========
+    NOTE!!!!
+   ==========
+ that I do not count when multiple tracks are in the same channel, 
 
-you know, because the entire point of listing that out is to tell people how complicated the song is going to be to play with their 2-3 instrument setup or their small band of people. and you can only enable/disable channels, not tracks.
+!! UNLESS !! the total number of non-rhythm (channel 10) tracks exceeds *16*
+
+because those over 16-track songs are sure to be fucky in the midi player 
+
+!!! BE WARNED !!!
+
