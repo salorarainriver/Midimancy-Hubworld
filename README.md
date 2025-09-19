@@ -24,4 +24,4 @@ There is a naming standard for the midi file names, as well, and it goes like th
 
 **Artist - Song (number of tracks, or "/X/-mix")**
 
-'Artist' name will often be abbreviated, just to make it easier to read the file name in a pinch. [more info here](Artist Abbreviations)
+'Artist' name will often be abbreviated, just to make it easier to read the file name in a pinch. [more info here](Artist-Abbreviations)
