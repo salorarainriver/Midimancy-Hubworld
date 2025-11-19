@@ -1,0 +1,28 @@
+"why do you have 'PKMN' on these file names when they're all in the Pokémon folder?" shut up. 
+
+G1 = Red / Blue / Green / Yellow
+FRLG = Fire Red / Leaf Green
+
+GSC = Gold / Silver / Crystal
+HGSS = Heart Gold / Soul Silver
+
+RSE = Ruby / Sapphire / Emerald
+ORAS = Omega Ruby / Alpha Sapphire
+
+DPP = Diamond / Pearl / Platinum
+
+BW = Black / White / Black 2 / White 2
+
+XY = take a fucking guess
+
+SuMo = Sun / Moon
+USUM = Ultra Sun / Ultra Moon
+
+SwSh = Sword / Shield
+
+SV = Scarlet / Violet
+
+LA = Legends Arceus
+LZA = Legends Z-A
+
+PMD = Pokemon Mystery Dungeon

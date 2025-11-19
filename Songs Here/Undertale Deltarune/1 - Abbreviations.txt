@@ -1,0 +1,4 @@
+DR = Deltarune
+UT = Undertale
+
+... that was probably obvious.

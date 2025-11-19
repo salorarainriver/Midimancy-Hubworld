@@ -1,0 +1,3 @@
+MGS = Metal Gear Solid
+MGR = Metal Gear Rising
+PvZ = Plants vs Zombies
