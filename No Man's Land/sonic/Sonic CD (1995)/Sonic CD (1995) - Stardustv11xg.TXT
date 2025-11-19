@@ -1,0 +1,48 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-08-16
+
+File URL is http://www.vgmusic.com/new-files/stardustv11xg.mid
+Upload Date and Time: 07/29/2001 21:09:36
+
+Uploaded by RideWitMe@disillusionz.net (Gerardo R Cueto II)
+Originating IP Address: 209.214.9.102
+
+File Type: MIDI
+Game System: Sega CD
+Game Name: Sonic CD (Japan)
+Song Title: Stardust Speedway Good Future (XG version)
+Sequenced by: Gerardo R Cueto II <RideWitMe@disillusionz.net>
+Other Information: 
+[V1.1]
+UPDATE
+Fixed kick at the end
+
+
+Midi TrackName Analysis:
+
+
+UPDATE
+
+Now you can hear the bass drum at the end :)
+
+acoustic bass
+stereo slow strings
+accordion
+dream piano
+dream piano -=-octave unison
+kick
+high hats
+tom-toms
+crashes
+kick2
+tamberine
+snare
+cowbell
+castanets
+Brass 
+Brass -=octave unison=-
+snare 2
+dream piano
+dream piano -=octave unison=
+smokey
+clap

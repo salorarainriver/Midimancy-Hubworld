@@ -1,0 +1,27 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-12-26
+
+File URL is http://www.vgmusic.com/new-files/Twinkle_Cart.mid
+
+Uploaded by nekotachi@msn.com (Katt Itachi)
+Originating IP Address: 63.11.69.2
+
+File Type: MIDI
+Game System: Sega Dreamcast
+Game Name: Sonic Adventure
+Song Title: Twinkle Park: Twinkle Park & Twinkle Cart Race (2)
+Sequenced by: Katt Itachi <nekotachi@msn.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+%00
+...for Twinkle Cart%00
+ %00
+From Sonic Adventure%00
+ %00
+   by Katt%00
+ %00
+ %00

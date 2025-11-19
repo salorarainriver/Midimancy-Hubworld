@@ -1,0 +1,29 @@
+<html>File URL is http://www.vgmusic.com/new-files/s2_gg_12.mid
+Upload Date and Time: 10/16/2001 20:17:49
+
+Uploaded by webmaster@espiokaos.com (John Weeks)
+Originating IP Address: 64.12.102.182
+
+File Type: MIDI
+Game System: Sega Game Gear
+Game Name: Sonic The Hedgehog 2
+Song Title: Aqua Lake Zone
+Sequenced by: John Weeks <webmaster@espiokaos.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+This MIDI was sequenced and is owned by John Weeks [2001]; the original version of this song is © 1992 by SEGA
+[tk1] Lead 1 (square)
+[tk2] Lead 1 (square)
+[tk3] Lead 1 (square)
+[tk4] Lead 1 (square)
+[tk10] Percussion [Power Kit]
+Aqua Lake Zone (Sonic 2:  GameGear)
+Sequenced by John Weeks
+Finished:  10.16.01
+E-mail:  webmaster@espiokaos.com or espiokaos@yahoo.com
+www.espiokaos.com

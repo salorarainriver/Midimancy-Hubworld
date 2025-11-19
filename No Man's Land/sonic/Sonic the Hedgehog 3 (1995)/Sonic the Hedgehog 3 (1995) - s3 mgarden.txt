@@ -1,0 +1,26 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-08-28
+
+File URL is http://www.vgmusic.com/new-files/s3_mgarden.mid
+
+Uploaded by nekotachi@msn.com (Katt)
+Originating IP Address: 63.24.201.235
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 3
+Song Title: Marble Garden Zone: Act 1 (2)
+Sequenced by: Katsumi No (Katt) <nekotachi@msn.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+%00
+           (Act 1)%00
+ %00
+   from%00
+Sonic the Hedgehog 3%00
+       by Katsumi No%00
+ nekotachi@msn.com%00

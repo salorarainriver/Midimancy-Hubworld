@@ -1,0 +1,32 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-06-11
+
+File URL is http://www.vgmusic.com/new-files/S2MysticCave2P.mid
+
+Uploaded by dlw750@hotmail.com (Chibi Usa)
+Originating IP Address: 62.224.175.228
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: Mystic Cave Zone (2-Player) (3)
+Sequenced by: Chibi-Usa <dlw750@hotmail.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+Square Wave
+Synth Brass 1
+Square Wave
+Synth Bass 1
+Sequenced by Chibi-Usa
+dlw750@hotmail.com
+Drums
+Santur
+Synth Brass 2
+Synth Brass 2
+Synth Brass 1
+Synth Brass 1

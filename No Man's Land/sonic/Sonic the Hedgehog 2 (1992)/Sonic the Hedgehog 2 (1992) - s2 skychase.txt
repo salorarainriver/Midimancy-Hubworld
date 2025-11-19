@@ -1,0 +1,24 @@
+File URL is http://www.vgmusic.com/new-files/s2_skychase.mid
+Upload Date and Time: 10/04/2001 11:31:02
+
+Uploaded by katt@katilyr.com (Katt)
+Originating IP Address: 4.3.232.132
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic The Hedgehog 2
+Song Title: Sky Chase
+Sequenced by: Katsumi No (Katt)
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+%00
+Melody 1%00
+Melody 2%00
+Background%00
+Background%00
+Bass%00
+Percussion%00

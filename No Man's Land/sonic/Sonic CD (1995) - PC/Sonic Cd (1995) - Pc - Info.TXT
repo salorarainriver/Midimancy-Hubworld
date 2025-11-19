@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Game rip
+Format: MID
+Original Composer: 
+Sequencer: 
+Num of tunes: 2
+Complete:
+
+*** Game info ***
+Name: Sonic CD
+Platform: PC
+Year: 1995
+Genre: Jump'n'Run
+Publisher: Expert Software
+Developer: Sega

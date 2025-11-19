@@ -1,0 +1,33 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-08-28
+
+File URL is http://www.vgmusic.com/new-files/s1_sg_08.mid
+
+Uploaded by blizzard@bobanet.8m.com (Blizzard)
+Originating IP Address: 63.39.95.31
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog
+Song Title: Labyrinth Zone (4)
+Sequenced by: John Weeks
+Other Information: 
+ 
+
+Midi TrackName Analysis:
+
+
+This MIDI sequence is © 1998, 2000 by John Weeks ; the original version of this song is © 1991 by SEGA
+Slap Bass 1
+Slap Bass 1
+Clavinet
+Lead 2 (sawtooth)
+Lead 2 (sawtooth)
+Lead 2 (sawtooth)
+Lead 1 (square)
+Lead 1 (square)
+Percussion
+Labyrinth Zone (Sonic 1- Genesis)
+Originally sequenced by John Weeks on January 4, 1998
+Re-sequenced by John Weeks on April 16, 2000
+E-mail me at EspioKaos@aol.com or espiokaos@yahoo.com

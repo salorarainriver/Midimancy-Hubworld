@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged
+Format: MID
+Original Composer: Maki Morrow, Takenobu Mitsuyoshi
+Sequencer: Magnus Andersson, John Weeks
+Num of tunes: 27
+Complete: 
+
+*** Game info ***
+Name: Sonic the Fighters
+Platform: Arcade
+Year: 1996
+Genre: Beat'em up
+Publisher: Sega
+Developer: 

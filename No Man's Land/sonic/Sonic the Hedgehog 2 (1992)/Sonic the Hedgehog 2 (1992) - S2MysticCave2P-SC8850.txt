@@ -1,0 +1,30 @@
+<html>File URL is http://www.vgmusic.com/new-files/S2MysticCave2P-SC8850.mid
+
+Uploaded by dlw750@hotmail.com (Chibi Usa)
+Originating IP Address: 62.224.175.228
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: Mystic Cave Zone (2-Player) (3) (Roland SC-8850)
+Sequenced by: Chibi-Usa <dlw750@hotmail.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+Square Wave
+OB Brass
+Hollow Mini
+JPMG Bass
+Sequenced by Chibi-Usa
+dlw750@hotmail.com
+Drums
+SynthYangQin
+Synth Brass 2
+JUNO Brass
+Pro Brass
+P5 Brass
+Specials

@@ -1,0 +1,37 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-06-11
+
+File URL is http://www.vgmusic.com/new-files/scd_mcd_13.mid
+
+Uploaded by webmaster@espiokaos.com (John Weeks)
+Originating IP Address: 152.163.197.74
+
+File Type: MIDI
+Game System: Sega CD
+Game Name: Sonic CD (Japan)
+Song Title: Wacky Workbench "B" Mix
+Sequenced by: John Weeks <webmaster@espiokaos.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+This MIDI sequence is © 2001 by John Weeks ; the original version of this song is © 1993 by SEGA
+Slap Bass 1
+Lead 1 (square)
+Lead 5 (charang)
+Electric Guitar (jazz)
+FX 5 (brightness)
+Orchestra Hit
+SynthStrings 1
+FX 3 (crystal)
+Clavinet
+Percussion [Electric Kit]
+Lead 8 (bass + lead)
+Wacky Workbench "B" mix (Sonic CD:  MegaCD)
+Sequenced by John Weeks
+Finished:  05.12.01
+E-mail:  webmaster@espiokaos.com or EspioKaos@aol.com
+www.espiokaos.com

@@ -1,0 +1,51 @@
+<html>Added by: Princess Peach Toadstool <toadstool@csnsys.com>
+Date Added: 1998-10-26
+
+File URL is http://www.vgmusic.com/new-files/s3icecap1D.mid
+
+Uploaded by jaf32@juno.com (VGW Man)
+
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 3
+Song Title: Ice Cap Zone:  Act 1 (4)
+Sequenced by: W1P3OUT XL <w1p3outxl@aol.com>
+Other Information: 
+
+Midi TrackName Analysis:
+
+
+Ass-kickin' MIDI!!
+
+ CronoRye.Com
+
+[A-10] *STANDARD 1
+[A-10] *STANDARD1(Shaker,Tambourine)
+[A-01] *ETHNIC(Tabla Na)
+[A-01] *ETHNIC(Udo Long,Udo Short)
+[A-01] *ETHNIC(Tambourine)
+[A-02] Bass1
+[A-03] Vocal
+[A-04] SYNTH(再現ほぼ不可能なやつ)
+[A-05] SYNTH(和音がかなりあやしい)
+[A-06] PIANO
+[A-07] Reverse Cymbal
+[A-04] カットオフ(役にたってない)
+[A-09] SYNTH(初っぱなのやつ)+Horn
+[A-12] Glockenspiel
+[A-13] Gtr
+[A-14] SYNTH(Strと途中からのやつ)
+[A-15] PIANO2
+[A-02] 88
+Sonic the Hedgehog 3
+<(/-=Ice Cap Zone=-\)>
+SEGA MeGa-DRiVe
+~~SEGA Genesis~~
+Sonic TEAM
+By W1P3OUT XL
+a.k.a SynthRye
+For more go to:
+CronoRye WebSite
+http://www.cronorye.com/
+         or E-mail
+w1p3outxl@aol.com
+synthrye@aol.com

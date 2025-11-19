@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged
+Format: MID
+Original Composer: Tatsuyuki Maeda, Jun Senoue, Masaru Setsumaru, Seiroh Okamoto
+Sequencer: Various Authors
+Num of tunes: 47
+Complete: 
+
+*** Game info ***
+Name: Sonic 3D Blast
+Platform: Sega Saturn
+Year: 1996
+Genre: Jump'n'Run
+Publisher: Sega
+Developer: Traveller's Tales

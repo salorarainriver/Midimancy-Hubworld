@@ -1,0 +1,36 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-08-18
+
+File URL is http://www.vgmusic.com/new-files/raceresults.mid
+
+Uploaded by blizzard@bobanet.8m.com (Blizzard)
+Originating IP Address: 63.27.248.45
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: Race Results (2-Player)
+Sequenced by: John Weeks <blizzard@bobanet.8m.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+This MIDI sequence is © 1998, 2000 by John Weeks ; the original version of this song is © 1992 by SEGA
+Slap Bass 1
+Slap Bass 1
+Synth Brass 1
+Synth Brass 1
+Synth Brass 2
+Synth Brass 1
+Synth Brass 2
+Lead 1 (square)
+Lead 1 (square)
+Percussion
+Lead 1 (square)
+Race Results (Sonic 2- Genesis)
+Originally sequenced by John Weeks on July 22, 1998
+MIDI updated by John Weeks on August 2, 2000
+E-mail me at EspioKaos@aol.com or espiokaos@yahoo.com

@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged
+Format: MID
+Original Composer: 
+Sequencer: Katsumi No (Katt), John Weeks
+Num of tunes: 10
+Complete: 
+
+*** Game info ***
+Name: Sonic Spinball
+Platform: Sega Genesis, Sega GameGear
+Year: 1993
+Genre: Other
+Publisher: Sega
+Developer: Sega

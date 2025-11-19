@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged
+Format: MID
+Original Composer: 
+Sequencer: Various Authors
+Num of tunes: 40
+Complete: 
+
+*** Game info ***
+Name: Sonic And Knuckles
+Platform: Sega Genesis
+Year: 1994
+Genre: Jump'n'Run
+Publisher: Sega
+Developer: Sega

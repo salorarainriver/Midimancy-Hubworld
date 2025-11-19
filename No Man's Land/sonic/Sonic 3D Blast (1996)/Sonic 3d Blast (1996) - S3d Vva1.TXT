@@ -1,0 +1,27 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-06-11
+
+File URL is http://www.vgmusic.com/new-files/s3d_vva1.mid
+
+Uploaded by katt@katilyr.com (Katt)
+Originating IP Address: 4.3.239.194
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic 3D Blast
+Song Title: Volcano Valley Zone: Act 1
+Sequenced by: Katsumi No (Katt) <katilyr@hotmail.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+%00
+Fun Synth Effect R%00
+Weird Sound%00
+Weird Sound echo%00
+Square Wave%00
+Square Wave echo%00
+Bass%00
+Percussion%00

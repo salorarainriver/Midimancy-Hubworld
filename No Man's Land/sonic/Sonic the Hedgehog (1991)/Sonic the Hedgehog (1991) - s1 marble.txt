@@ -1,0 +1,28 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-08-28
+
+File URL is http://www.vgmusic.com/new-files/s1_marble.mid
+
+Uploaded by nekotachi@msn.com (Katt)
+Originating IP Address: 63.24.201.235
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog
+Song Title: Marble Zone (7)
+Sequenced by: Katsumi No (Katt) <nekotachi@msn.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+%00
+ %00
+      from%00
+"Sonic the Hedgehog"%00
+ %00
+       by Katsumi No%00
+         (AKA "Katt)%00
+ %00
+ nekotachi@msn.com%00

@@ -1,0 +1,37 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-10-24
+
+File URL is http://www.vgmusic.com/new-files/Icecap.mid
+
+Uploaded by LynxofCP@hotmail.com (Steven Blom)
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 3
+Song Title: Ice Cap Zone: Act 1 (6)
+Sequenced by: Steven Blom <LynxofCP@hotmail.com>
+
+Other Information: Accurate to the note :-) Thanks to the guy who wrote Gym2Mid so I could get it perfect, though, I still needed to re-write it to put the drums in.
+
+Midi TrackName Analysis:
+
+
+Bass reinforcement
+Strings in Surround (Right)
+Call of the snowlands echo
+Call of the snowlands
+Arpegio in Surround (Left)
+Synthetic Bass
+Ambiance
+Power Drums
+Arpegio in Surround (Right)
+--------------------------------------
+Ice Cap Zone act 1
+From Sonic 3 on the Genesis
+--------------------------------------
+Made by Lynx of Central Programming
+LynxofCP@Hotmail.com
+Mail me for Genesis and SNES requests
+But Get me a log (SPC or GYM) file for
+Accurate conversions :-)
+This one should be exact

@@ -1,0 +1,32 @@
+<html>Added by: Pong64 <pong64@vgmusic.com>
+Date Added: 2000-08-23
+
+File URL is http://www.vgmusic.com/new-files/casino-night-alternate.mid
+
+Uploaded by blizzard@bobanet.8m.com (Blizzard)
+Originating IP Address: 63.39.95.31
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic The Hedgehog 2
+Song Title: Casino Night Zone (4)
+Sequenced by: John Weeks <EspioKaos@aol.com>
+Other Information: 
+
+
+Midi TrackName Analysis:
+
+
+This MIDI Sequence is © 1999 by John Weeks
+Lead 2 (sawtooth)
+Electric Bass (pick)
+Electric Piano 1
+Lead 1 (square)
+Casino Night Zone (Sonic 2- Genesis Beta Version)
+Originally sequenced by John Weeks on January 15, 1999
+Re-sequenced by John Weeks on February 6, 1999
+E-mail me at EspioKaos@aol.com
+Percussion
+Special thanks goes to Andre Dirk and AJ Freda for
+Supplying me with a WAV and Mp3 of the
+Original version of this song.

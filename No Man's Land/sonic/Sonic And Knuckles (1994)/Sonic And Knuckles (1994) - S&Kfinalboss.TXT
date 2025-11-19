@@ -1,0 +1,25 @@
+<html>Added by: Princess Peach Toadstool <toadstool@csnsys.com>
+Date Added: 1998-10-26
+
+File URL is http://www.vgmusic.com/new-files/S&Kfinalboss.mid
+
+Uploaded by jaf32@juno.com (VGW Man)
+
+Game System: Sega Genesis
+Game Name: Sonic and Knuckles
+Song Title: Final Boss
+Other Information: 
+
+Midi TrackName Analysis:
+
+%00
+Melody%00
+Melody ec%00
+Bass%00
+Syn.Lead R%00
+Syn.Lead L%00
+Strings%00
+Pipe%00
+Syn.Lead2%00
+Celesta%00
+Drums%00

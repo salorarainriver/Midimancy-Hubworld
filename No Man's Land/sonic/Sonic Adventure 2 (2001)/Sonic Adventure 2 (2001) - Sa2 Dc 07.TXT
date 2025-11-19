@@ -1,0 +1,41 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-09-30
+
+File URL is http://www.vgmusic.com/new-files/sa2_dc_07_v2.mid
+Upload Date and Time: 09/19/2001 13:53:16
+
+Uploaded by webmaster@espiokaos.com (John Weeks)
+Originating IP Address: 205.188.200.29
+
+File Type: MIDI
+Game System: Sega Dreamcast
+Game Name: Sonic Adventure 2
+Song Title: Pumpkin Hill
+Sequenced by: John Weeks <webmaster@espiokaos.com>
+Song Originally Composed by: Tomoya Ohtani
+
+Other Information: 
+[V2.0]
+This is an updated ver. o' my first sequence o' this song.  I noticed that I made a few mistakes in the bass line, and that I'd left out one track -- a barely-audible ocarina.  But, now all o' that's fixed.  Enjoy!
+
+~Espio
+
+
+Midi TrackName Analysis:
+
+
+This MIDI was sequenced and is owned by John Weeks [2001]; the original version of this song is © 2000, 2001 by SEGA
+[tk1] Fretless Bass
+[tk2] Acoustic Grand Piano
+[tk3] Acoustic Grand Piano
+[tk4] Acoustic Grand Piano
+[tk5] Ocarina
+[tk6] Clavinet
+[tk7] Ocarina
+[tk10] Percussion [Jazz Kit / Power Kit]
+Pumpkin Hill (Sonic Adventure 2)
+Sequenced by John Weeks
+Finished:  09.17.01
+Updated:  09.19.01
+E-mail:  webmaster@espiokaos.com or espiokaos@yahoo.com
+www.espiokaos.com

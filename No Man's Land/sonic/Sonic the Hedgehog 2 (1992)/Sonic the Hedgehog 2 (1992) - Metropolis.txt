@@ -1,0 +1,26 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-08-16
+
+File URL is http://www.vgmusic.com/new-files/Metropolis.mid
+
+Uploaded by nekotachi@msn.com (Katsumi No)
+Originating IP Address: 63.17.155.219
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic The Hedgehog 2
+Song Title: Metropolis Zone (3)
+Sequenced by: Katsumi No <nekotachi@msn.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+%00
+Guitar%00
+PolySynth%00
+PolySynth%00
+PolySynth%00
+Bass%00
+Percussion%00

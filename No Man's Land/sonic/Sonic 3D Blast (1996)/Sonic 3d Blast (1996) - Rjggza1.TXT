@@ -1,0 +1,39 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-04-18
+
+File URL is http://www.vgmusic.com/new-files/rjggza1.mid
+
+Uploaded by tolwyn@uswest.net (JD Harding)
+
+File Type: MIDI
+Game System: Sega Saturn
+Game Name: Sonic 3D Blast
+Song Title: Green Grove Zone - Act 1 (Richard Jacques' Own)
+Sequenced by: Richard Jacques
+Song Originally Composed by: Richard Jacques
+
+Other Information: Original song sent to me from Richard Jacques himself through e-mail. You can find more of my Sonic music at http://tolwyn.simplenet.com/sonic/  -JD Harding
+(Quite impressive.  A MIDI sequence directly from the original composer.  This is a must-keep.  -Peach)
+
+Midi TrackName Analysis:
+
+
+Ghosts
+Snare
+Toms
+Kick
+Triangle
+Crash
+Hi Piano
+Track 20
+Shakers
+Lo Piano
+Track 31
+Track 32
+Vibes
+467
+013/0
+000/1
+Track 36
+E Piano
+Track 35

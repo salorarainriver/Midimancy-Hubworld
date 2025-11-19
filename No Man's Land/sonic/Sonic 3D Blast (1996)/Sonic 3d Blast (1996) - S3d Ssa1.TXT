@@ -1,0 +1,24 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-06-11
+
+File URL is http://www.vgmusic.com/new-files/s3d_ssa1.mid
+
+Uploaded by katilyr@hotmail.com (Katt)
+Originating IP Address: 4.3.235.12
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic 3D Blast
+Song Title: Spring Stadium Zone: Act 1
+Sequenced by: Katsumi No (Katt) <katilyr@hotmail.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+%00
+Background L%00
+Background R%00
+Bass%00
+Percussion%00

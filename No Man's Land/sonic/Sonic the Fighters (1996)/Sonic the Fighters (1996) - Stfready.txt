@@ -1,0 +1,27 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-08-16
+
+File URL is http://www.vgmusic.com/new-files/Stfready.mid
+
+Uploaded by rubens.barrichello@swipnet.se (Magnus Andersson)
+Originating IP Address: 212.151.238.113
+
+File Type: MIDI
+Game System: Arcade
+Game Name: Sonic the Fighters
+Song Title: Game Start (2)
+Sequenced by: Magnus Andersson <rubens.barrichello@swipnet.se>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+Sonic the Fighters
+For Sega Arcade
+(C) Sega AM2 - 1996
+Sequenced in June 2000 by:
+Magnus Andersson
+rubens.barrichello@swipnet.se
+Thanks to Solly in France! :)

@@ -1,0 +1,32 @@
+<html>Added by: The Jade Emperor <jade_emperor@vgmusic.com>
+Date Added: 2001-04-26
+
+File URL is http://www.vgmusic.com/new-files/Hidden_Palace.mid
+
+Uploaded by cfewell@pa.net (Tim Fewell)
+Originating IP Address: 207.44.16.94
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: Hidden Palace Zone (2)
+Sequenced by: Tim Fewell <cfewell@pa.net>
+Song Originally Composed by: SEGA
+
+Other Information: 
+My attempt at making it sound as close as
+possble to the original using the Microsoft
+GS Wavetable Synthesizer.
+
+
+Midi TrackName Analysis:
+
+
+Main
+ 
+Extra
+ 
+More of Main
+ 
+Bass
+Drum

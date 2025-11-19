@@ -1,0 +1,36 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-12-26
+
+File URL is http://www.vgmusic.com/new-files/wvtndo.mid
+
+Uploaded by mcelaire@netscape.net (Merit Celaire)
+Originating IP Address: 199.182.143.170
+
+File Type: MIDI
+Game System: Sega Dreamcast
+Game Name: Sonic Adventure
+Song Title: Windy Valley: The Tornado
+Sequenced by: Merit Celaire <mcelaire@netscape.net>
+Other Information: 
+Here is my MIDI arrangement of "Windy Valley: The
+Tornado" from the Sega Dreamcast game "Sonic 
+Adventure". Sorry guys, no sound effects included
+in this MIDI, but I believe this arrangement
+should be close to the original BGM heard in the
+game.
+
+
+Midi TrackName Analysis:
+
+
+Bass Synth
+Electric Guitar (intro area)
+Guitar (drive)
+Melody 1 (main)
+Melody 2 (guitars)
+Drums 1
+Drums 2
+"Windy Valley: The Tornado"
+FROM THE GAME: Sonic Adventure
+MIDI ARRANGEMENT SEQUENCED BY: Merit Celaire
+EMAIL COMMENTS TO: mcelaire@netscape.net

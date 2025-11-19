@@ -1,0 +1,25 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-06-27
+
+File URL is http://www.vgmusic.com/new-files/Azure_City_-_XG.mid
+
+Uploaded by nerd@freeuk.net (Paul Evans)
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 3
+Song Title: Azure Lake (XG)
+Sequenced by: Paul Evans <nerd@freeuk.net>
+Other Information: An adaptation of Azure Lake - XG version
+
+Midi TrackName Analysis:
+
+
+Bass
+Piano
+Guitar
+Lead 1
+Lead 2
+Drums
+Lead 1 echo
+Lead 2 echo

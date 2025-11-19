@@ -1,0 +1,30 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-03-27
+
+File URL is http://www.vgmusic.com/new-files/s2_emerald.mid
+
+Uploaded by nekotachi@msn.com (Katt)
+Originating IP Address: 63.16.114.192
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: Emerald Hill Zone (5)
+Sequenced by: Katsumi No (Katt) <nekotachi@msn.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+%00
+Brightness C%00
+Brightness R%00
+PolySynth L%00
+PolySynth C%00
+PolySynth R%00
+Synth Chiff%00
+Steel Drums%00
+Glockenspiel%00
+Bass%00
+Percussion%00

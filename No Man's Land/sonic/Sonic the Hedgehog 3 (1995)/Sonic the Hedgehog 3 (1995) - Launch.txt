@@ -1,0 +1,28 @@
+<html>Added by: Pong64 <pong64@vgmusic.com>
+Date Added: 2001-02-09
+
+File URL is http://www.vgmusic.com/new-files/Launch.mid
+
+Uploaded by staroxide@mypad.com (HM Elechinda)
+Originating IP Address: 216.198.60.59
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic The Hedgehog 3
+Song Title: Launch Base Zone: Act 1 (HM Remix)
+Sequenced by: HM Elechinda <staroxide@mypad.com>
+Other Information: 
+
+
+Midi TrackName Analysis:
+
+
+Strings
+Orchestra Hit Thing
+Ocarina
+Monster Bass
+Vibes
+Perc.
+Perc. 2
+Perc. 3
+Tempo Track

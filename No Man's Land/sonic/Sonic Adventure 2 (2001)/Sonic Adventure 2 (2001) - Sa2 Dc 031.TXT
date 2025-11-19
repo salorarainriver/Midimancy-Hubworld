@@ -1,0 +1,36 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-09-20
+
+File URL is http://www.vgmusic.com/new-files/sa2_dc_03.mid
+Upload Date and Time: 09/14/2001 11:06:42
+
+Uploaded by webmaster@espiokaos.com (John Weeks)
+Originating IP Address: 205.188.198.54
+
+File Type: MIDI
+Game System: Sega Dreamcast
+Game Name: Sonic Adventure 2
+Song Title: Green Forest
+Sequenced by: John Weeks <webmaster@espiokaos.com>
+Song Originally Composed by: Jun Senoue
+
+Other Information: 
+
+ 
+
+Midi TrackName Analysis:
+
+
+This MIDI was sequenced and is owned by John Weeks [2001]; the original version of this song is © 2000, 2001 by SEGA
+[tk1] Electric Bass (pick)
+[tk2] Overdriven Guitar
+[tk3] Overdriven Guitar
+[tk4] Electric Guitar (clean)
+[tk5] Guitar Fret Noise
+Green Forest (Sonic Adventure 2)
+Sequenced by John Weeks
+Finished:  05.27.01 / Updated:  09.13.01
+E-mail:  webmaster@espiokaos.com or espiokaos@yahoo.com
+[tk10] Percussion [Standard Kit 1 / Room Kit / Power Kit]
+Special thanks to sonicblur for making an MP3 of the original ver. of this song.
+E-mail sonicblur at sonicblur@mac.com

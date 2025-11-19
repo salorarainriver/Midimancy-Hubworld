@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged
+Format: MID
+Original Composer: Hiya!
+Sequencer: Blaze Hedgehog, John Weeks, Sierra Ranay and Seth
+Num of tunes: 5
+Complete: 
+
+*** Game info ***
+Name: Sonic Pocket Adventure
+Platform: NeoGeo Pocket
+Year: 1999
+Genre: Jump'n'Run
+Publisher: SNK
+Developer: SNK

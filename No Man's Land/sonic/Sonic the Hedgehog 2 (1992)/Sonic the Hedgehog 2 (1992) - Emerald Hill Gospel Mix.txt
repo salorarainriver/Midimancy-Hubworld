@@ -1,0 +1,33 @@
+<html>Added by: Pong64 <pong64@vgmusic.com>
+Date Added: 2001-01-09
+
+File URL is http://www.vgmusic.com/new-files/Emerald_Hill_Gospel_Mix.mid
+
+Uploaded by hasbro24@hotmail.com (Josh Henegar)
+Originating IP Address: 209.245.225.116
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic The Hedgehog 2
+Song Title: Emerald Hill (2-Player) (Gospel Choir Mix) (XG)
+Sequenced by: Josh Henegar <hasbro24@hotmail.com>
+
+Other Information: 
+I haven't tested this on wingroove yet to see how it sounds but if u are going to listen to it...use ur XG synthesizer cuz that is what it is made for! Enjoy ur first Gospel midi (i think)!!
+;)
+
+
+Midi TrackName Analysis:
+
+
+Baritone Sax
+Vibraphone
+Alto Sax
+Rock Organ
+Trumpet
+Synth Bass 1
+Percussion
+Tempo Track
+Staff-1
+Staff-2
+Staff-3

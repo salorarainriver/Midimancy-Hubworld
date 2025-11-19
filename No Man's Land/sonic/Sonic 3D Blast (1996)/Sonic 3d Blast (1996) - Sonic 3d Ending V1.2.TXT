@@ -1,0 +1,25 @@
+<html>Added by: Mark Jansen <JansenM@home.com>
+Date Added: 2000-09-30
+
+File URL is http://www.vgmusic.com/new-files/Sonic_3D_Ending_V1.2.mid
+
+Uploaded by nekotachi@msn.com (Katt Itachi)
+Originating IP Address: 63.16.113.205
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic 3D Blast
+Song Title: Ending Theme
+Sequenced by: Katt Itachi <nekotachi@msn.com>
+Other Information: 
+[V1.2] Fixed percussion.  Still can't get the pitch bend to work, though.
+
+
+Midi TrackName Analysis:
+
+%00
+      (v1.2)%00
+   from%00
+"Sonic 3D Blast"%00
+ %00
+      by Katt%00

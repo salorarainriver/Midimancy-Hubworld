@@ -1,0 +1,26 @@
+<html>Added by: Princess Peach Toadstool <toadstool@csnsys.com>
+Date Added: 1998-10-26
+
+File URL is http://www.vgmusic.com/new-files/s2aquaruins2.mid
+
+Uploaded by jaf32@juno.com (VGW Man)
+
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: Aquatic Ruin Zone (2)
+Other Information: 
+
+Midi TrackName Analysis:
+
+%00
+Melody1%00
+Melody1 ec%00
+Melody2%00
+Melody2 ec%00
+Bass%00
+Piano%00
+Square%00
+String L%00
+String R%00
+Drums%00
+Pipe%00

@@ -1,0 +1,39 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-06-11
+
+File URL is http://www.vgmusic.com/new-files/s3_sg_06.mid
+
+Uploaded by EspioKaos@aol.com (John Weeks)
+Originating IP Address: 205.188.198.26
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 3
+Song Title: Ice Cap Zone: Act 1 (7)
+Sequenced by: John Weeks <espiokaos@aol.com>
+Other Information: 
+This is my second version of my original IceCap Zone Act 1 sequence.  I got some help with a few parts from my friend Magnus (magnusmag@crosswinds.net) who gave me a GYM of this song from the emulator version of Sonic 3.
+
+~Espio
+
+
+Midi TrackName Analysis:
+
+
+This MIDI sequence is © 1997, 2000 by John Weeks; the original version of this song is © 1994 by SEGA
+Synth Bass 1
+Synth Bass 1
+Electric Guitar (jazz)
+Electric Guitar (muted)
+Electric Guitar (muted)
+SynthStrings 1
+Electric Guitar (jazz)
+Lead 1 (square)
+Lead 1 (square)
+Percussion [Dance Kit]
+IceCap Zone Act 1 (Sonic 3)
+Sequenced by John Weeks on November 22, 1997
+MIDI updated by John Weeks on December 29, 2000
+E-mail me at EspioKaos@aol.com or espiokaos@yahoo.com
+Special thanks to Magnus for givin' me a GYM of this song to help out with this update.
+E-mail Magnus at magnusmag@crosswinds.net

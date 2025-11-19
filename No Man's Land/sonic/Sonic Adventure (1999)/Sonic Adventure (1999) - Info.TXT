@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged
+Format: MID
+Original Composer: Jun Senoue, Kenichi Tokoi, Fumie Kumatani
+Sequencer: Various Authors
+Num of tunes: 50
+Complete: 
+
+*** Game info ***
+Name: Sonic Adventure
+Platform: Dreamcast
+Year: 1999
+Genre: Jump'n'Run
+Publisher: Sega
+Developer: Sonic Team

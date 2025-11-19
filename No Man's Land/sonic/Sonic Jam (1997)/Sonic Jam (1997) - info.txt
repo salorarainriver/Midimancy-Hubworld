@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged
+Format: MID
+Original Composer: Sonic Team
+Sequencer: John Weeks, Jarel Jones
+Num of tunes: 3
+Complete: 
+
+*** Game info ***
+Name: Sonic Jam
+Platform: Sega Saturn
+Year: 1997
+Genre: Jump'n'Run
+Publisher: Sega
+Developer: Sonic Team

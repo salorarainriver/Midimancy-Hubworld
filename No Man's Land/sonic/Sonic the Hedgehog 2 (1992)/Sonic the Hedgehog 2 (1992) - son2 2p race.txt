@@ -1,0 +1,30 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-08-16
+
+File URL is http://www.vgmusic.com/new-files/son2_2p_race.mid
+
+Uploaded by dreamcastrox@sega.net (Ztrop)
+Originating IP Address: 4.54.175.233
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: 2-Player Competition Results
+Sequenced by: Ztrop <dreamcastrox@sega.net>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+lead1
+lead2
+brssectn
+bass1
+bass2
+polysyn
+synthbas
+sqlead
+perc2
+drskit

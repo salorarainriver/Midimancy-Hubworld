@@ -1,0 +1,136 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-08-16
+
+File URL is http://www.vgmusic.com/new-files/stationsquare-ts.mid
+
+Uploaded by fred@hotmail.com (Fred)
+Originating IP Address: 195.92.194.107
+
+File Type: MIDI
+Game System: Sega Dreamcast
+Game Name: Sonic Adventure
+Song Title: Station Square
+Other Information: 
+ 
+
+
+Midi TrackName Analysis:
+
+
+Start of Setup by GSAE
+Efx Type : Distortion                      
+Part A1 Part Efx Assign : ON
+Part A11 Use for Rythm Part : Drum Map 2
+Part A1 Bank Select MSB : 9
+Part A1 Bank Select LSB : 88ProMap
+Part A1 Program Change : 29
+Part A1 Volume : 100
+Part A1 Panpot : Center
+Part A1 Reverb Send Level : 40
+Part A1 Chorus Send Level : 0
+End of Setup by GSAE
+Part A2 Bank Select MSB : 1
+Part A2 Bank Select LSB : 88ProMap
+Part A2 Program Change : 36
+Part A2 Volume : 100
+Part A2 Panpot : Center
+Part A2 Reverb Send Level : 40
+Part A2 Chorus Send Level : 0
+Part A3 Bank Select MSB : 0
+Part A3 Bank Select LSB : 88ProMap
+Part A3 Program Change : 0
+Part A3 Volume : 100
+Part A3 Panpot : Center
+Part A3 Reverb Send Level : 40
+Part A3 Chorus Send Level : 0
+Part A4 Bank Select MSB : 0
+Part A4 Bank Select LSB : 88ProMap
+Part A4 Program Change : 0
+Part A4 Volume : 100
+Part A4 Panpot : Center
+Part A4 Reverb Send Level : 40
+Part A4 Chorus Send Level : 0
+Part A5 Bank Select MSB : 0
+Part A5 Bank Select LSB : 88ProMap
+Part A5 Program Change : 0
+Part A5 Volume : 100
+Part A5 Panpot : Center
+Part A5 Reverb Send Level : 40
+Part A5 Chorus Send Level : 0
+Part A6 Bank Select MSB : 0
+Part A6 Bank Select LSB : 88ProMap
+Part A6 Program Change : 0
+Part A6 Volume : 100
+Part A6 Panpot : Center
+Part A6 Reverb Send Level : 40
+Part A6 Chorus Send Level : 0
+Part A7 Bank Select MSB : 0
+Part A7 Bank Select LSB : 88ProMap
+Part A7 Program Change : 0
+Part A7 Volume : 100
+Part A7 Panpot : Center
+Part A7 Reverb Send Level : 40
+Part A7 Chorus Send Level : 0
+Part A8 Bank Select MSB : 0
+Part A8 Bank Select LSB : 88ProMap
+Part A8 Program Change : 0
+Part A8 Volume : 100
+Part A8 Panpot : Center
+Part A8 Reverb Send Level : 40
+Part A8 Chorus Send Level : 0
+Part A9 Bank Select MSB : 0
+Part A9 Bank Select LSB : 88ProMap
+Part A9 Program Change : 0
+Part A9 Volume : 100
+Part A9 Panpot : Center
+Part A9 Reverb Send Level : 40
+Part A9 Chorus Send Level : 0
+Part A10 Bank Select MSB : 0
+Part A10 Bank Select LSB : 88ProMap
+Part A10 Program Change : 0
+Part A10 Volume : 100
+Part A10 Panpot : Center
+Part A10 Reverb Send Level : 40
+Part A10 Chorus Send Level : 0
+Part A11 Bank Select MSB : 0
+Part A11 Bank Select LSB : 88ProMap
+Part A11 Program Change : 53
+Part A11 Volume : 100
+Part A11 Panpot : Center
+Part A11 Reverb Send Level : 40
+Part A11 Chorus Send Level : 0
+Part A12 Bank Select MSB : 0
+Part A12 Bank Select LSB : 88ProMap
+Part A12 Program Change : 0
+Part A12 Volume : 100
+Part A12 Panpot : Center
+Part A12 Reverb Send Level : 40
+Part A12 Chorus Send Level : 0
+Part A13 Bank Select MSB : 0
+Part A13 Bank Select LSB : 88ProMap
+Part A13 Program Change : 0
+Part A13 Volume : 100
+Part A13 Panpot : Center
+Part A13 Reverb Send Level : 40
+Part A13 Chorus Send Level : 0
+Part A14 Bank Select MSB : 0
+Part A14 Bank Select LSB : 88ProMap
+Part A14 Program Change : 0
+Part A14 Volume : 100
+Part A14 Panpot : Center
+Part A14 Reverb Send Level : 40
+Part A14 Chorus Send Level : 0
+Part A15 Bank Select MSB : 0
+Part A15 Bank Select LSB : 88ProMap
+Part A15 Program Change : 0
+Part A15 Volume : 100
+Part A15 Panpot : Center
+Part A15 Reverb Send Level : 40
+Part A15 Chorus Send Level : 0
+Part A16 Bank Select MSB : 0
+Part A16 Bank Select LSB : 88ProMap
+Part A16 Program Change : 0
+Part A16 Volume : 100
+Part A16 Panpot : Center
+Part A16 Reverb Send Level : 40
+Part A16 Chorus Send Level : 0

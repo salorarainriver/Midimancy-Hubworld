@@ -1,0 +1,30 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-10-24
+
+File URL is http://www.vgmusic.com/new-files/icemix.mid
+
+Uploaded by Blazehgehg@aol.com (Blaze Hedgehog)
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 3 
+Song Title: Ice Cap Zone (Infinity Remix)
+Sequenced by: Blaze Hedgehog <Blazehgehg@aol.com>
+
+Other Information: The reason why I called it ''IceCap Infinity'' is because I'll be using it in my upcoming fangame, ''Sonic Infinity''
+
+Midi TrackName Analysis:
+
+
+Instrument 1
+Instrument2
+Instrument3
+Instrument4
+Instrument5
+Instrument6
+Instrument7
+Tempo Track
+Staff-1
+Staff-2
+Staff-3
+Staff-4

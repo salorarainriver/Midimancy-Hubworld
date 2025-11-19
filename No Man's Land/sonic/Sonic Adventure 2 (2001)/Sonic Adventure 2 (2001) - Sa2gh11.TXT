@@ -1,0 +1,55 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-08-16
+
+File URL is http://www.vgmusic.com/new-files/sa2gh11.mid
+Upload Date and Time: 07/24/2001 02:20:43
+
+Uploaded by RideWitMe@disillusionz.net (Gerardo R Cueto II)
+Originating IP Address: 208.60.254.222
+
+File Type: MIDI
+Game System: Sega Dreamcast
+Game Name: Sonic Adventure 2
+Song Title: Green Hill Zone
+Sequenced by: Gerardo R Cueto II <RideWitMe@disillusionz.net>
+Other Information: 
+[V1.1]
+lil' update
+ 1patch change
+and a bit of note fixes
+
+
+Midi TrackName Analysis:
+
+
+UPDATE
+
+1. Patch changes
+
+-Channel 13 is now Sine Wave on Roland GS and Yamaha XG
+
+2. Note fixes
+
+-Channel 12 has few notes fixed and durations fixed
+
+There might be other changes on it but I probably forgot them since they are so small.
+
+Email: RideWitMe@disillusionz.net
+
+Room Kit
+slap bass
+saw
+saw
+brass and strings
+saw follower
+blank
+saw
+synth brass
+ocarina
+blank
+square
+sine wave
+saw
+fade
+fade
+lower saw

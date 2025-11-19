@@ -1,0 +1,29 @@
+File URL is http://www.vgmusic.com/new-files/lavareefA1.mid
+
+Uploaded by dreamcastrox@sega.net (Ztrop)
+Originating IP Address: 4.45.163.141
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic & Knuckes/Sonic 3 & Knuckles
+Song Title: Lava Reef Zone Act 1
+Sequenced by: Howard Drossin
+Song Originally Composed by: Ztrop
+
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+© 1995 SEGA
+lead
+bass 1
+bass 2
+lead2
+xylo
+marimba
+saw
+drskit
+sqlead

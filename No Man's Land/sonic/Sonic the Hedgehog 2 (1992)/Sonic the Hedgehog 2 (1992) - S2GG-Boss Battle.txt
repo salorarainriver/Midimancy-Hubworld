@@ -1,0 +1,33 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-12-18
+
+File URL is http://www.vgmusic.com/new-files/S2GG-Boss_Battle.mid
+
+Uploaded by RuneWalsh7@hotmail.com (Rune Walsh)
+
+File Type: MIDI
+Game System: Sega Game Gear
+Game Name: Sonic the Hedgehog 2
+Song Title: Boss Battle
+Sequenced by: Rune Walsh <RuneWalsh7@hotmail.com>
+Other Information: Sequenced by Rune Walsh (RuneWalsh7@hotmail.com)
+
+Midi TrackName Analysis:
+
+
+©199? Sega
+01: Leed 1 [Square]
+02: Leed 1 [Square]
+03: Leed 2 [Sawtooth]
+10: Drums (Pedal Hi-hat)
+10: Drums
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sonic the Hedgehog 2 (Game Gear)
+Boss Battle Theme
+Sequenced by Rune Walsh
+RuneWalsh7@hotmail.com
+Midi Duration - 1:02
+nZero wanted this particular tune sequenced,
+so I did the best I could. Not 100% accurate, but anyway...
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+S2GG-Boss_Battle.mid

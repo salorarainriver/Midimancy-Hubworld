@@ -1,0 +1,26 @@
+<html>Added by: Mark Jansen <JansenM@home.com>
+Date Added: 2000-09-30
+
+File URL is http://www.vgmusic.com/new-files/Sonic_3D_Blast_Title.mid
+
+Uploaded by nekotachi@msn.com (Katt Itachi)
+Originating IP Address: 63.11.69.30
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic 3D Blast
+Song Title: Main Theme
+Sequenced by: Katt Itachi <nekotachi@msn.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+%00
+ %00
+   from%00
+"Sonic 3D Blast"%00
+ %00
+      by Katt%00
+ %00

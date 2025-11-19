@@ -1,0 +1,41 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-08-28
+
+File URL is http://www.vgmusic.com/new-files/sa_dc_12_v2.mid
+
+Uploaded by EspioKaos@aol.com (John Weeks)
+Originating IP Address: 205.188.197.186
+
+File Type: MIDI
+Game System: Sega Dreamcast
+Game Name: Sonic Adventure
+Song Title: Windy Valley: Windy Hill (2)
+Sequenced by: John Weeks <espiokaos@aol.com>
+Song Originally Composed by: Jun Senoue
+
+Other Information: 
+[V2.0] In this 2nd version of this MIDI, I increased the note on velocity of the 4th track instrument, Pad 1 (new age), by 20 points to make it a bit louder so that it could be heard better. I also changed a few wrong notes in tracks 11 and 12. Enjoy!
+
+~Espio
+ 
+
+Midi TrackName Analysis:
+
+
+This MIDI sequence is © 2000 by John Weeks ; the original version of this song is © 1998, 1999 by SEGA
+Electric Bass (pick)
+FX 3 (crystal)
+Harmonica
+Pad 1 (new age)
+SynthStrings 1
+Percussive Organ
+Tinkle Bell
+Electric Guitar (muted)
+Electric Guitar (muted)
+Percussion
+Acoustic Guitar (steel)
+Acoustic Guitar (steel)
+Windy Valley: Windy Hill (Sonic Adventure- Dreamcast)
+Sequenced by John Weeks on June 11, 2000
+MIDI updated by John Weeks on June 12, 2000
+E-mail me at EspioKaos@aol.com or espiokaos@yahoo.com

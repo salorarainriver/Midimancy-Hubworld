@@ -1,0 +1,27 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-08-28
+
+File URL is http://www.vgmusic.com/new-files/s3d_dda2.mid
+
+Uploaded by nekotachi@msn.com (Katt)
+Originating IP Address: 63.24.201.235
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic 3D Blast
+Song Title: Diamond Dust Zone: Act 2
+Sequenced by: Katsumi No (Katt) <nekotachi@msn.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+%00
+ %00
+ from Sonic 3D Blast%00
+ %00
+       by Katsumi No%00
+        (AKA "Katt")%00
+ %00
+    katt@katilyr.com%00

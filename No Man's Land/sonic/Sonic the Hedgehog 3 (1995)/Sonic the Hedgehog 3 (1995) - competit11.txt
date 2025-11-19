@@ -1,0 +1,28 @@
+<html>File URL is http://www.vgmusic.com/new-files/competit11.mid
+Upload Date and Time: 07/29/2001 21:19:01
+
+Uploaded by RideWitMe@disillusionz.net (Gerardo R Cueto II)
+Originating IP Address: 208.60.208.198
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic The Hedgehog 3
+Song Title: Competition (V1.1)
+Sequenced by: Gerardo R Cueto II <RideWitMe@disillusionz.net>
+Other Information: 
+UPDATE
+-fixed grace notes
+-now compatible with dreamcast too
+
+
+Midi TrackName Analysis:
+
+
+Sonic 3 Competition Menu sequenced by Gerardo R Cueto II
+slap bass 1
+slap bass 2
+vibes and jazz guitar
+square
+saxes and celesta and organ
+drums 
+high hats and cymbals

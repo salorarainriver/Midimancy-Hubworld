@@ -1,0 +1,25 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 2000-02-20
+
+File URL is http://www.vgmusic.com/new-files/Sonic2CPZ.mid
+
+Uploaded by carriere@gtn.net (Susan Carrière, A.  R.  C.  T.  )
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: Chemical Plant Zone (7)
+Sequenced by: Susan Carriere, A. R. C. T. <thecarrierefamily@home.com>
+Other Information:  -- Subtitle:  Chemical Plant Zone -- If you are using Cakewalk Pro Audio, use Auto Shuttle with all boxes checked (9:01:000, 37:01:000) to get the introduction and keep looping the appropriate part of the music after that.   -- WARNING:  This MIDI was designed for the Yamaha SXG70 Driver and there is a very good chance that this MIDI will suck if some other Driver is used.   -- I'm a.  k.  a.  Hemogoblin.  
+
+Midi TrackName Analysis:
+
+
+Brass 
+Soprano Sax.  
+Bass 1 
+Melody 
+Bass 2 
+Jazz Organ 
+Bass 3 
+Percussion 

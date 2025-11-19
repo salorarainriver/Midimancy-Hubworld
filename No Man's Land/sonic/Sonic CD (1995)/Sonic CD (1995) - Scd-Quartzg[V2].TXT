@@ -1,0 +1,40 @@
+<html>Added by: Mark Jansen <gargos@yahoo.com>
+Date Added: 2001-03-27
+
+File URL is http://www.vgmusic.com/new-files/SCD-QuartzG[v2].mid
+
+Uploaded by GameVetJose@aol.com (Jose')
+Originating IP Address: 172.129.219.165
+
+File Type: MIDI
+Game System: Sega CD
+Game Name: Sonic CD (Japan)
+Song Title: Quartz Quadrant Good Future
+Sequenced by: Jose' <GameVetJose@aol.com>
+Song Originally Composed by: Naofumi Hataya, Masafumi Ogata
+
+Other Information: 
+Version 2 of a file uploaded early this year,
+no longer on site (in case you still have my
+original lying around somewhere).
+
+
+Midi TrackName Analysis:
+
+
+"Quartz
+Quadrant
+G Mix"
+copyright
+1993 Sega.
+Created using
+Cakewalk
+Express Gold
+on Sound
+Blaster Live!
+with
+Casio
+CTK-750
+keyboard
+as controller.
+--Jose' 2000

@@ -1,0 +1,38 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-08-16
+
+File URL is http://www.vgmusic.com/new-files/s3_sg_31.mid
+Upload Date and Time: 08/02/2001 21:50:35
+
+Uploaded by webmaster@espiokaos.com (John Weeks)
+Originating IP Address: 152.163.197.61
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 3
+Song Title: Hydrocity Zone: Act 1 (2)
+Sequenced by: John Weeks <webmaster@espiokaos.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+This MIDI was sequenced and is owned by John Weeks [08.02.01]; the original version of this song is © 1994 by SEGA
+[tk1] Electric Bass (pick)
+[tk2] Electric Bass (finger)
+[tk3] Synth Brass 1
+[tk4] Synth Brass 1
+[tk5] Draw Organ
+[tk6] Draw Organ
+[tk7] Electric Guitar (jazz)
+[tk8] Synth Brass 1
+[tk9] Lead 1 (square)
+[tk10] Percussion [Jazz Kit]
+[tk11] Lead 1 (square)
+HydroCity Zone Act 1 (Sonic 3)
+Sequenced by John Weeks / Finished:  08.02.01
+E-mail:  webmaster@espiokaos.com or espiokaos@yahoo.com
+Special thanks to Eric Wright for sendin' me a GYM2MID conversion of this song.
+E-mail Eric Wright at nyco_fox@hotmail.com

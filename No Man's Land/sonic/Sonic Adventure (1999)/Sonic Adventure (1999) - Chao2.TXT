@@ -1,0 +1,50 @@
+File URL is http://www.vgmusic.com/new-files/chao2.mid
+Upload Date and Time: 07/18/2001 00:20:51
+
+Uploaded by ridewitme@disillusionz.net (Gerardo R Cueto II)
+Originating IP Address: 208.60.254.216
+
+File Type: MIDI
+Game System: Sega Dreamcast
+Game Name: Sonic Adventure
+Song Title: CHAO Theme Song
+Sequenced by: Gerardo R Cueto II
+Song Originally Composed by: Fumie Kumatani
+
+Other Information: 
+a song that plays when you're in the chao garden
+
+
+Midi TrackName Analysis:
+
+
+acoustic bass
+kick
+high-hats
+tango accordion
+crash
+piano
+strings
+snare
+snare ghost
+french horn
+celesta
+reverse cymbal
+helicopter
+brass
+lower french horn
+melodic toms
+loud strings
+ride
+expression fade 1
+expression fade 2
+expression fade 3
+expression fade 4
+expression fade 5
+expression fade 6
+expression fade 7
+expression fade 8
+expression fade 9
+expression fade 10
+expression fade 11
+expression fade 12

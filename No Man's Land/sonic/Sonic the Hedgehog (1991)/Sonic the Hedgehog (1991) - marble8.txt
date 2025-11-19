@@ -1,0 +1,28 @@
+<html>Added by: The Jade Emperor <jade_emperor@vgmusic.com>
+Date Added: 2001-08-06
+
+File URL is http://www.vgmusic.com/new-files/marble8.mid
+
+Uploaded by dreamcastrox@sega.net (Ztrop)
+Originating IP Address: 4.4.12.146
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog
+Song Title: Marble Zone (8)
+Sequenced by: Ztrop <dreamcastrox@sega.net>
+Other Information: 
+
+
+Midi TrackName Analysis:
+
+
+bass
+epiano
+lead1
+trumpet
+lead2
+bass2
+sqlead_l
+dull_perc  =p
+sqlead_r

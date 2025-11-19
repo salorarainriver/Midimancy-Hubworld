@@ -1,0 +1,38 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-09-20
+
+File URL is http://www.vgmusic.com/new-files/ss_sg_10.mid
+Upload Date and Time: 09/17/2001 19:50:45
+
+Uploaded by webmaster@espiokaos.com (John Weeks)
+Originating IP Address: 205.188.199.151
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic Spinball
+Song Title: The Showdown
+Sequenced by: John Weeks <webmaster@espiokaos.com>
+Other Information: 
+ 
+
+
+Midi TrackName Analysis:
+
+
+This MIDI was sequenced and is owned by John Weeks [2001]; the original version of this song is © 1992 by SEGA
+[tk1] Synth Bass 1
+[tk2] Distortion Guitar
+[tk3] Distortion Guitar
+[tk4] Pad 3 (polysynth)
+[tk5] Pad 3 (polysynth)
+[tk6] Clavinet
+[tk7] Lead 8 (bass + lead)
+[tk8] Applause
+[tk9] Synth Drum
+[tk10] Percussion [Room Kit]
+The Showdown (Sonic Spinball:  Genesis)
+Sequenced by John Weeks
+Finished:  09.16.01
+E-mail:  webmaster@espiokaos.com or espiokaos@yahoo.com
+Special thanks to Magnus for sending me a GYM of the original song.
+E-mail Magnus at magnusmag@crosswinds.net

@@ -1,0 +1,36 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 2000-04-30
+
+File URL is http://www.vgmusic.com/new-files/sa_dc_02.mid
+
+Uploaded by EspioKaos@aol.com (John Weeks)
+
+File Type: MIDI
+Game System: Sega Dreamcast
+Game Name: Sonic Adventure
+Song Title: Twinkle Park: Twinkle Park & Twinkle Cart Race
+Sequenced by: John Weeks <EspioKaos@aol.com>
+Other Information: 
+This file was uploaded to us with a different name, but has now gone AWOL.  I have found the original at John Weeks' page (http://www.geocities.com/SouthBeach/Jetty/2263) and reuploaded it. -- Powerlord
+
+
+Midi TrackName Analysis:
+
+
+This MIDI sequence is © 1999 by John Weeks. The original version of this song is © 1998, 1999 by SEGA
+Lead 2 (sawtooth)
+Synth Bass 1
+Lead 2 (sawtooth)
+SynthStrings 1
+Lead 2 (sawtooth)
+Lead 2 (sawtooth)
+Orchestral Harp
+Electric Piano 2
+Electric Piano 2
+Percussion
+Twinkle Cart (Sonic Adventure- Dreamcast)
+Sequenced by John Weeks on August 21, 1999, August 22, 1999, and August 31, 1999
+E-mail me at EspioKaos@aol.com
+Special thanks goes to Magnus for supplying me with a Gym2Mid file of
+Panic Puppet Zone Act 1 (Sonic 3D Blast- Genesis) which this song is based on.
+E-mail Magnus at magnusmag@crosswinds.net

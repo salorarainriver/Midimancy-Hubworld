@@ -1,0 +1,37 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-08-28
+
+File URL is http://www.vgmusic.com/new-files/s2chem-v2.mid
+
+Uploaded by ren225@home.com (Mike)
+Originating IP Address: 24.113.214.220
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: Chemical Plant Zone (9)
+Sequenced by: Renalicious
+Other Information: 
+ 
+
+
+Midi TrackName Analysis:
+
+
+I sequenced this using some of the other versions as templates. This version should be accturate in terms of note placement and 
+I'm not too sure about the PAN and VOLUME since everyother synth will sound differently. Some will sound great, while others wil
+If you think that you can make this sound better, by all means do so. All I ask is that you send me a copy :)
+
+e-mail : ren225@home.com
+
+Homepage : http://threewave.com/~ren
+
+Chan 0
+Chan 1
+Chan 1 - extra
+Chan 2
+Chan 2 - 2
+Chan 3
+Chan 4
+DAC
+PSG

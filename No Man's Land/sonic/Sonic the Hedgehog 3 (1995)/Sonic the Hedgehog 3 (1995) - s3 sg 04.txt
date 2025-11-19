@@ -1,0 +1,36 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-03-27
+
+File URL is http://www.vgmusic.com/new-files/s3_sg_04.mid
+
+Uploaded by EspioKaos@aol.com (John Weeks)
+Originating IP Address: 152.163.207.182
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 3
+Song Title: Carnival Night Zone: Act 2 (2)
+Sequenced by: John Weeks <EspioKaos@aol.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+This MIDI sequence is © 1998, 2000 by John Weeks ; the original version of this song is © 1994 by SEGA
+Synth Bass 1
+Lead 5 (charang)
+Lead 5 (charang)
+Lead 1 (square)
+Reed Organ
+Percussive Organ
+Percussive Organ
+Lead 1 (square)
+Lead 1 (square)
+Percussion [Jazz Kit]
+Lead 5 (charang)
+Carnival Night Zone Act 2 (Sonic 3)
+Sequenced by John Weeks on June 30, 1998
+MIDI updated by John Weeks on December 4, 2000
+E-mail me at EspioKaos@aol.com or espiokaos@yahoo.com

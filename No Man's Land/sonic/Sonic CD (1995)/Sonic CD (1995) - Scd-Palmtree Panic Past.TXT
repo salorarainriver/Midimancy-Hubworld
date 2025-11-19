@@ -1,0 +1,27 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-08-15
+
+File URL is http://www.vgmusic.com/new-files/SCD-Palmtree_Panic-Past.mid
+
+Uploaded by CDman87@hotmail.com (CDman)
+
+File Type: MIDI
+Game System: Sega CD
+Game Name: Sonic CD
+Song Title: Palmtree Panic (Past)
+Sequenced by: Koryan
+Other Information: 
+
+Midi TrackName Analysis:
+
+%00
+Flute%00
+Piano%00
+Strings%00
+Bass%00
+Jazz Gt.L%00
+Jazz Gt.R%00
+E.Piano%00
+Drums%00
+Flute ec%00
+Piano ec%00

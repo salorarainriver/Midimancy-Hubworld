@@ -1,0 +1,28 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 2000-04-30
+
+File URL is http://www.vgmusic.com/new-files/Knuckles'_Theme.mid
+
+Uploaded by itachineko@aol.com (Katt Itachi)
+Originating IP Address: 171.220.139.167
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic and Knuckles
+Song Title: Knuckles (Amazon Remix)
+Sequenced by: Katt Itachi
+Other Information: 
+
+
+Midi TrackName Analysis:
+
+%00
+Flute Breath Sound%00
+Saw Wave%00
+Saw Wave%00
+Marimba%00
+Orchestra Hit%00
+Drum Effects%00
+Drum Effects%00
+Rain FX%00
+Percussion%00

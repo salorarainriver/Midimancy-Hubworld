@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged
+Format: MID
+Original Composer: 
+Sequencer: John Weeks, Jarel Jones
+Num of tunes: 4
+Complete: 
+
+*** Game info ***
+Name: Sonic Drift 2
+Platform: Sega GameGear
+Year: 19??
+Genre: Cars
+Publisher: Sega
+Developer: Sega

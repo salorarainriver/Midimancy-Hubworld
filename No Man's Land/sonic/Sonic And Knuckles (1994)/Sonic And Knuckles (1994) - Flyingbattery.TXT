@@ -1,0 +1,30 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-10-24
+
+File URL is http://www.vgmusic.com/new-files/flyingbattery.mid
+
+Uploaded by Blazehgehg@aol.com (Blaze Hedgehog)
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic and Knuckles
+Song Title: Flying Battery Zone (Blaze Remix)
+Sequenced by: Blaze Hedgehog <Blazehgehg@aol.com>
+
+Other Information: 
+
+Midi TrackName Analysis:
+
+
+Melody1
+Melody1 ec
+Melody2
+Melody2 ec
+Guitar L
+Guitar R
+Strings L
+Strings R
+Bass
+Drums
+Tempo Track
+Staff-1

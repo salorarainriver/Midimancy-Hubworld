@@ -1,0 +1,23 @@
+<html>Added by: Princess Peach Toadstool <toadstool@csnsys.com>
+Date Added: 1998-28-09
+
+File URL is http://www.vgmusic.com/new-files/hidden_p.mid
+
+Uploaded by ajm@dlcwest.com (WildKard)
+
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: Hidden Palace Zone
+Other Information: 
+
+Midi TrackName Analysis:
+
+%00
+Melody%00
+Melody%00
+Fr.Horn L%00
+Fr.Horn R%00
+Strings%00
+E.Piano%00
+Melody ec%00
+Drums%00

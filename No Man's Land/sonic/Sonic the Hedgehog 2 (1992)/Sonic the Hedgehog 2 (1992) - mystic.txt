@@ -1,0 +1,26 @@
+<html>Added by: Princess Peach Toadstool <toadstool@csnsys.com>
+Date Added: 1998-28-09
+
+File URL is http://www.vgmusic.com/new-files/mystic.mid
+
+Uploaded by ajm@dlcwest.com (WildKard)
+
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: Mystic Cave Zone
+Other Information: 
+
+Midi TrackName Analysis:
+
+%00
+Piccolo%00
+Vibraphone%00
+Harpsi.%00
+Bass1%00
+Bass2%00
+Brass1%00
+Brass1 ec%00
+Brass2 L%00
+Brass2 R%00
+Drums%00
+Fr.Horn%00

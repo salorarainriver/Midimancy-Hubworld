@@ -1,0 +1,26 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-08-15
+
+File URL is http://www.vgmusic.com/new-files/s2hilltop.mid
+
+Uploaded by powerlord@vgmusic.com (Powerlord)
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: Hilltop Zone (4)
+Sequenced by: Powerlord <powerlord@vgmusic.com>
+Other Information: I sequenced this file because the other versions of thismidi had note, volume, and controller problems.
+
+Midi TrackName Analysis:
+
+
+I created this because the other two Hilltop Zone midis had some note, effect, and  instrument problems.
+
+Muted Trumpet / Soprano Sax
+Brass
+Organ Background
+Bass
+Percussion
+Sequenced 1999 by Ross Bemrose
+powerlord@vgmusic.com

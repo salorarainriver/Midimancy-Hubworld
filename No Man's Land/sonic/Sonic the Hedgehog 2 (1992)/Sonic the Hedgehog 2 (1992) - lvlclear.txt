@@ -1,0 +1,26 @@
+File URL is http://www.vgmusic.com/new-files/lvlclear.mid
+Upload Date and Time: 06/18/2001 19:40:02
+
+Uploaded by dreamcastrox@sega.net (Ztrop)
+Originating IP Address: 4.4.203.53
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic The Hedgehog 2
+Song Title: Zone Clear
+Sequenced by: Ztrop
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+
+bass
+weird1
+lead1
+lead2
+brass
+more weird
+sqlead
+drumset

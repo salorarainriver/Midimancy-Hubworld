@@ -1,0 +1,51 @@
+<html>File URL is http://www.vgmusic.com/new-files/chao12.mid
+Upload Date and Time: 07/29/2001 21:11:44
+
+Uploaded by RideWitMe@disillusionz.net (Gerardo R Cueto II)
+Originating IP Address: 209.214.9.102
+
+File Type: MIDI
+Game System: Sega Dreamcast
+Game Name: Sonic Adventure
+Song Title: CHAO Theme Song (V1.2)
+Sequenced by: Gerardo R Cueto II <RideWitMe@disillusionz.net>
+Other Information: 
+UPDATE
+-now compatible with all midi players especially Sega Dreamcast Dreamkey or Dreampassport
+
+
+Midi TrackName Analysis:
+
+
+Chao Theme - Sonic Adventure - Sega Dreamcast
+acoustic bass
+kick
+high-hats
+tango accordion
+crash
+piano
+strings
+snare
+snare ghost
+french horn
+celesta
+blank
+helicopter
+brass
+lower french horn
+melodic toms
+loud strings
+ride
+expression fade 1
+expression fade 2
+expression fade 3
+expression fade 4
+expression fade 5
+expression fade 6
+expression fade 7
+expression fade 8
+expression fade 9
+expression fade 10
+expression fade 11
+expression fade 12
+shakers

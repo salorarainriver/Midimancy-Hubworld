@@ -1,0 +1,24 @@
+<html>Added by: Princess Peach Toadstool <toadstool@csnsys.com>
+Date Added: 1998-28-09
+
+File URL is http://www.vgmusic.com/new-files/ending2.mid
+
+Uploaded by ajm@dlcwest.com (WildKard)
+
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 2
+Song Title: Ending Music (2)
+Other Information: 
+
+Midi TrackName Analysis:
+
+%00
+Melody1%00
+Melody2%00
+Bass%00
+Syn.Pad1 R%00
+Syn.Pad1 L%00
+Syn.Pad2%00
+Syn.Lead1%00
+Syn.Lead2%00
+Drums%00

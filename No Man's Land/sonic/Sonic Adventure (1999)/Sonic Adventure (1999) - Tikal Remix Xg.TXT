@@ -1,0 +1,53 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-08-16
+
+File URL is http://www.vgmusic.com/new-files/Tikal_Remix_XG.mid
+
+Uploaded by fussenpepper@hotmail.com (Trace Kyshad)
+Originating IP Address: 194.117.133.54
+
+File Type: MIDI
+Game System: Sega Dreamcast
+Game Name: Sonic Adventure
+Song Title: Tikal (SXG remix)
+Sequenced by: Trace Kyshad <fussenpepper@hotmail.com>
+Other Information: 
+This was the actual tune... originally, but then I went a little crazy with my new SXG soundcard, and thus this was created. I'm not sure if all the instruments are as close as they could be ("Prologue" shoulda been used more)... Enjoy
+
+
+Midi TrackName Analysis:
+
+
+P1-Sine Pad
+P2-Planet
+P3-Prologue
+P4-Modulated Bass
+P5-Kanoon
+P6-Electric Grand Piano
+P7-Steel Guitar
+P9-Wind Chime
+P10-Rock Kit
+P8-Grand Piano
+P11-Grand Piano
+P12-Grand Piano
+P13-Grand Piano
+P14-Grand Piano
+P15-Grand Piano
+P16-Grand Piano
+P17-Grand Piano
+P18-Grand Piano
+P19-Grand Piano
+P20-Grand Piano
+P21-Grand Piano
+P22-Grand Piano
+P23-Grand Piano
+P24-Grand Piano
+P25-Grand Piano
+P26-Standard Kit
+P27-Grand Piano
+P28-Grand Piano
+P29-Grand Piano
+P30-Grand Piano
+P31-Grand Piano
+P32-Grand Piano
+System

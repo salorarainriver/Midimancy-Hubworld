@@ -1,0 +1,28 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2000-08-28
+
+File URL is http://www.vgmusic.com/new-files/S3hydr2.mid
+
+Uploaded by jrratzlaff@yahoo.com (James Ratzlaff)
+Originating IP Address: 24.30.12.117
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 3
+Song Title: Hydrocity Zone: Act 2 (Arranged)
+Sequenced by: James Ratzlaff <jrratzlaff@yahoo.com>
+Other Information: 
+I arranged this song about 3 years ago.  I just now decided to release it.
+
+
+Midi TrackName Analysis:
+
+
+Melody1 ec
+Melody2
+Melody2 ec
+Bass
+Square
+SynBrass
+Accordion
+Drums

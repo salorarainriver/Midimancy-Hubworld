@@ -1,0 +1,24 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-03-27
+
+File URL is http://www.vgmusic.com/new-files/s3d_invincibility.mid
+
+Uploaded by nekotachi@msn.com (Katt)
+Originating IP Address: 63.11.69.88
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic 3D Blast
+Song Title: Invincibility
+Sequenced by: Katsumi No (Katt) <nekotachi@msn.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+%00
+Dist. Lead L%00
+Dist. Lead R%00
+Synth Bass%00
+Percussion%00

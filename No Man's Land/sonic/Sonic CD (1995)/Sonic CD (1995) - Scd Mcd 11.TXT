@@ -1,0 +1,36 @@
+<html>Added by: Mark Jansen <gargos@yahoo.com>
+Date Added: 2001-03-27
+
+File URL is http://www.vgmusic.com/new-files/scd_mcd_11.mid
+
+Uploaded by EspioKaos@aol.com (John Weeks)
+Originating IP Address: 205.188.199.174
+
+File Type: MIDI
+Game System: Sega CD
+Game Name: Sonic CD (Japan)
+Song Title: Collision Chaos Good Future (2)
+Sequenced by: John Weeks <espiokaos@aol.com>
+Other Information: 
+Just so you'll know if you didn't already, this is *not* a remix of a song from Sonic CD.  The "G" mix part of the title just means that this is the version of the song from the "Good Future" version of Collision Chaos Zone.  That's how it's titled in the sound test menu.  Just though I should let ya know.
+
+~Espio
+
+
+Midi TrackName Analysis:
+
+
+This MIDI sequence is © 2000 by John Weeks ; the original version of this song is © 1993 by SEGA
+Slap Bass 1
+FX 3 (crystal)
+Lead 1 (square)
+Synth Brass 1
+Ocarina
+Guitar Harmonics
+Percussive Organ
+SynthStrings 2
+Electric Piano 1
+Percussion [Dance Kit]
+Collision Chaos "G" mix (Sonic CD- Mega CD)
+Sequenced by John Weeks on December 18, 2000
+E-mail me at EspioKaos@aol.com or espiokaos@yahoo.com

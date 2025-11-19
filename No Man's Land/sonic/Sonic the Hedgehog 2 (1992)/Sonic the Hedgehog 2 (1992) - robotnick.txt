@@ -1,0 +1,30 @@
+<html>Added by: The Jade Emperor <jade_emperor@vgmusic.com>
+Date Added: 2001-01-08
+
+File URL is http://www.vgmusic.com/new-files/robotnick.mid
+
+Uploaded by XelAdun@hotmail.com (Ben W.M.)
+Originating IP Address: 24.218.68.59
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic The Hedgehog 2
+Song Title: Boss (3)
+Sequenced by: Ben W.M.    <XelAdun@hotmail.com>
+Song Originally Composed by: Sega
+
+Other Information: 
+created from sonic2 robotnick *.gym file, 
+converted to midi by using Gym2mid.
+Should sound pretty original.
+
+
+Midi TrackName Analysis:
+
+
+Brass Synth1
+Brass Synth1
+StringEnsemble
+StringTemmolo
+Percussions
+TaikoDrum

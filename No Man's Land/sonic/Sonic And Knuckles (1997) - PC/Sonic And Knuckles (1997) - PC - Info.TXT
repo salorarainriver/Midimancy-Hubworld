@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Game rip
+Format: MID (GS [GM])
+Original Composer: 
+Sequencer: Paul Lapensee
+Num of tunes: 55
+Complete:
+
+*** Game info ***
+Name: Sonic And Knuckles
+Platform: PC
+Year: 1997
+Genre: Jump'n'Run
+Publisher: Sega
+Developer: Sega

@@ -1,0 +1,33 @@
+<html>Added by: Pong64 <pong64@vgmusic.com>
+Date Added: 2000-11-17
+
+File URL is http://www.vgmusic.com/new-files/Chemical_Plant_Phat_Bass_XG_RMX.mid
+
+Uploaded by hasbro24@hotmail.com (Josh Henegar)
+Originating IP Address: 207.136.38.114
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic The Hedgehog 2
+Song Title: Chemical Plant (Phat Bass XG Remix)
+Sequenced by: Josh Henegar <hasbro24@hotmail.com>
+
+Other Information: 
+this midi sounds horible on Wingroove and general midi...if u are going to listen to this song please use your Yamaha Driver or your ears will hate you!!
+
+
+Midi TrackName Analysis:
+
+
+Chan 0
+Chan 1
+Chan 1 - extra
+Chan 2
+Chan 2 - 2
+Chan 3
+Chan 4
+DAC
+PSG
+Tempo Track
+Staff-1
+Staff-2

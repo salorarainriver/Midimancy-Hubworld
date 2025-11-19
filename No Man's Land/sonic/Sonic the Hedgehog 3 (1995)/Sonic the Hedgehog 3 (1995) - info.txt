@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged
+Format: MID
+Original Composer: 
+Sequencer: Various Authors
+Num of tunes: 87
+Complete: 
+
+*** Game info ***
+Name: Sonic the Hedgehog 3
+Platform: Sega Genesis
+Year: 1995
+Genre: Jump'n'Run
+Publisher: Sega
+Developer: Sonic Team

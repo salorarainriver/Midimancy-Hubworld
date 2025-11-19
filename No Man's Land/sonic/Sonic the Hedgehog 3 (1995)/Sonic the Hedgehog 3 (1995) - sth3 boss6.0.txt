@@ -1,0 +1,34 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-09-20
+
+File URL is http://www.vgmusic.com/new-files/sth3_boss6.0.mid
+Upload Date and Time: 08/24/2001 12:51:18
+
+Uploaded by mjddark@yahoo.com (Matt Dennison)
+Originating IP Address: 63.29.167.70
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 3
+Song Title: Boss (2)
+Sequenced by: Kieran Greyloch
+Other Information: 
+[V6.0]
+This is the last time i'm going to update this file, i swear to GOD >_>
+ 
+
+Midi TrackName Analysis:
+
+
+Staff
+Staff-2
+Staff-3
+Staff-4
+Staff-5
+Staff-6
+Staff-7
+Staff-8
+Staff-9
+Staff-10
+Staff-11
+Tempo Track

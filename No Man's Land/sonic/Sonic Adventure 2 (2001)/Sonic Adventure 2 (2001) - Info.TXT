@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft
+Type: Arranged
+Format: MID
+Original Composer: Tomoya Ohtani, Jun Senoue, Fumie Kumatani, Kenichi Tokoi
+Sequencer: John Weeks, Gerardo R Cueto II, Trace Kyshad, Stacy Anne Christiansen, Jose', Jarel Jones, Temjin
+Num of tunes: 22
+Complete: 
+
+*** Game info ***
+Name: Sonic Adventure 2
+Platform: Dreamcast
+Year: 2001
+Genre: Jump'n'Run
+Publisher: Sega
+Developer: Sonic Team

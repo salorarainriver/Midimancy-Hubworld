@@ -1,0 +1,27 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-08-16
+
+File URL is http://www.vgmusic.com/new-files/s3_credits.mid
+Upload Date and Time: 07/30/2001 14:27:12
+
+Uploaded by katilyr@hotmail.com (Katt)
+Originating IP Address: 4.3.234.155
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic the Hedgehog 3
+Song Title: Credits
+Sequenced by: Katsumi No (Katt) <joe_cortez@hotmail.com>
+Other Information: 
+
+
+
+Midi TrackName Analysis:
+
+%00
+Metal Synth (Main)%00
+Metal Synth%00
+Metal Synth%00
+Gunshot%00
+Bass%00
+Percussion%00

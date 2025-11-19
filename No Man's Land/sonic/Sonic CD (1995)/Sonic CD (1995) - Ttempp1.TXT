@@ -1,0 +1,51 @@
+<html>Added by: Mark Jansen <gargos@vgmusic.com>
+Date Added: 2001-08-16
+
+File URL is http://www.vgmusic.com/new-files/ttempp1.mid
+Upload Date and Time: 08/01/2001 23:11:50
+
+Uploaded by RideWitMe@disillusionz.net (Gerardo R Cueto II)
+Originating IP Address: 208.60.207.6
+
+File Type: MIDI
+Game System: Sega CD
+Game Name: Sonic CD
+Song Title: Tidal Tempest (Past) (2)
+Sequenced by: Gerardo R Cueto II <RideWitMe@disillusionz.net>
+Other Information: 
+[V1.1]
+UPDATE
+-Pan problems with marimba are fixed.
+
+
+Midi TrackName Analysis:
+
+
+UPDATE
+
+-Pan problems fixed with Marimba.
+
+kick
+shaker
+snare
+acoustic bass
+flute
+vibraphone
+electric grand piano
+marimba
+bongos
+acoustic guitar (nylon)
+chan 6 fade
+chorused piano
+agogo
+koto
+fade1
+fade2
+fade3
+fade4
+fade5
+fade6
+fade7
+fade8
+fade9
+fade10

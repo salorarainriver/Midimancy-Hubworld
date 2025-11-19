@@ -1,0 +1,19 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Mirsoft, Legend
+Type: Arranged
+Format: MID
+Original Composer: Masato Nakamura
+Sequencer: Various Authors
+Num of tunes: 66
+Complete: 
+
+*** Game info ***
+Name: Sonic the Hedgehog
+Platform: Sega Genesis, Sega GameGear, Sega MasterSystem
+Year: 1991
+Genre: Jump'n'Run
+Publisher: Sega
+Developer: Sonic Team

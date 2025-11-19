@@ -1,0 +1,23 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 2000-04-30
+
+File URL is http://www.vgmusic.com/new-files/Death_Egg.mid
+
+Uploaded by itachineko@aol.com (Katt Itachi)
+Originating IP Address: 171.220.139.167
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic and Knuckles
+Song Title: Death Egg Zone: Act 1 (2)
+Sequenced by: Katt Itachi <itachineko@aol.com>
+Other Information: 
+
+
+Midi TrackName Analysis:
+
+%00
+   from%00
+"Sonic and Knuckles"%00
+ %00
+       by Katt%00

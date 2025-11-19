@@ -1,0 +1,30 @@
+<html>Added by: Princess Peach Toadstool <peach@vgmusic.com>
+Date Added: 1999-06-27
+
+File URL is http://www.vgmusic.com/new-files/tails.mid
+
+Uploaded by ice@e-mind.it (Max)
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic The Hedgehog 2
+Song Title: Tails' Plain
+Sequenced by: Max <ice@e-mind.it>
+Other Information:  Awe 64 Gold User Synth It was a long time ago the last time I heard the original song, so ( maybe ) I transposed it. 
+
+Midi TrackName Analysis:
+
+
+        Bass
+      Background
+      Background
+        Melody
+          Counterpoint
+         Melody
+         Background
+           Counterpoint
+          Background
+          Melody
+          Drums
+         Melody
+         Melody

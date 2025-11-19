@@ -1,0 +1,28 @@
+<html>Added by: Princess Peach Toadstool <toadstool@csnsys.com>
+Date Added: 1998-28-09
+
+File URL is http://www.vgmusic.com/new-files/son&knux.mid
+
+Uploaded by ajm@dlcwest.com (WildKard)
+
+Game System: Sega Genesis
+Game Name: Sonic and Knuckles
+Song Title: Title Screen
+Other Information: 
+
+Midi TrackName Analysis:
+
+%00
+Notes%00
+Piano%00
+Main%00
+Brass%00
+Track 6%00
+Trumpflare%00
+Strings%00
+Track 9%00
+Drums%00
+Track 11%00
+Trumpets%00
+Track 13%00
+Track 14%00

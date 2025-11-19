@@ -1,0 +1,37 @@
+<html>Added by: Mark Jansen <gargos@yahoo.com>
+Date Added: 2001-03-27
+
+File URL is http://www.vgmusic.com/new-files/s3db_sg_22.mid
+
+Uploaded by EspioKaos@aol.com (John Weeks)
+Originating IP Address: 205.188.197.162
+
+File Type: MIDI
+Game System: Sega Genesis
+Game Name: Sonic 3D Blast
+Song Title: Gene Gadget Zone Act 2
+Sequenced by: John Weeks <espiokaos@aol.com>
+Other Information: 
+Special thanks goes to my friend, Magnus, for givin' me a GYM file of this song from the emulator version of Sonic 3D Blast to help me out with sequencin' certain parts.  You can e-mail Magnus at magnusmag@crosswinds.net.
+ 
+
+Midi TrackName Analysis:
+
+
+This MIDI sequence is © 2000 by John Weeks ; the original version of this song is © 1996 by SEGA
+Slap Bass 2
+Slap Bass 2
+Draw Organ, Lead 2 (sawtooth)
+Draw Organ, Lead 2 (sawtooth)
+SynthStrings 1, Electric Guitar (jazz)
+SynthStrings 1, Electric Guitar (jazz)
+Electric Piano 1, Distortion Guitar
+Electric Piano 1, Distortion Guitar
+Lead 1 (square)
+Percussion [Standard Kit 1]
+Lead 1 (square)
+Gene Gadget Zone Act 2 (Sonic 3D Blast- Genesis)
+Sequenced by John Weeks on December 16, 2000
+E-mail me at EspioKaos@aol.com or espiokaos@yahoo.com
+Special thanks goes to Magnus for givin' me a GYM of the emulator version of this song.
+E-mail Magnus at magnusmag@crosswinds.net
